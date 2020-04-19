@@ -1,0 +1,17 @@
+
+body{
+	text-align: center;
+	color: yellow;
+	letter-spacing: 3px;
+	text-shadow: 1.5px 1.5px grey;
+	font-family: "Georgia";
+	background: linear-gradient(to right, rgb(244 36 151) , rgb(72 234 234)  );
+
+}
+
+h3{
+	color: rgb(240 85 49);
+	font-family: Comic Sans;
+	text-transform: none;
+	text-shadow: 0.5px 0.5px grey;
+}
